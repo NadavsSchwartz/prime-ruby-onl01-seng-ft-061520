@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(int)
-int.prime?
+Prime.prime?(int)
 end
